@@ -1,3 +1,7 @@
+## To test your application using Postman, you can follow these steps:
+
+### Sample Examples to Test the Email Scheduling API
+
 1. POST /schedule-email
 Request:
 URL: http://localhost:3000/api/schedule-email
